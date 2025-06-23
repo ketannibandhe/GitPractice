@@ -11,3 +11,5 @@ let doubled = nums.map(n => n * 2);
 console.log("Doubled Array:", doubled);
 document.body.style.backgroundColor = "#f0f8ff";
 alert("JavaScript is running!");
+
+console.log("Ketan created the change in the code via BigFix branch");
