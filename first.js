@@ -1,3 +1,7 @@
+function greet() {
+    console.log("Hello from main branch!");
+}
+
 console.log("1");
 console.log("3");
 console.log("5");
@@ -7,6 +11,3 @@ console.log("I want to see whether the changes made here, reflects in the github
 
 console.log("final in bigFix branch");
 
-function greet() {
-    console.log("Hello from main branch!");
-}
