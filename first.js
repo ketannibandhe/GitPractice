@@ -1,5 +1,5 @@
 function greet() {
-    console.log("Hello from feature branch!");
+    console.log("Hello from main branch!");
 }
 
 console.log("1");
@@ -10,3 +10,4 @@ console.log("10000");
 console.log("I want to see whether the changes made here, reflects in the github repo or not");
 
 console.log("final in bigFix branch");
+
